@@ -1,9 +1,9 @@
-import axios from 'axios';
-import { toast } from 'react-toastify';
-import icon from '../../assets/img/Notification-icon.svg';
-import { BASE_URL } from '../../utils/request';
+import axios from "axios";
+import { toast } from "react-toastify";
+import icon from "../../assets/img/Notification-icon.svg";
+import { BASE_URL } from "../../utils/request";
 
-import './styles.css';
+import "./styles.css";
 
 type Props = {
     saleId: number;

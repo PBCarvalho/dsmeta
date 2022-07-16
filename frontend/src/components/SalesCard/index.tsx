@@ -4,8 +4,8 @@ import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 import { Sale } from "../../models/sale";
 import { BASE_URL } from "../../utils/request";
-import NotificationButton from '../NotificationButton';
-import './styles.css';
+import NotificationButton from "../NotificationButton";
+import "./styles.css";
 
 function SalesCard() {
 
